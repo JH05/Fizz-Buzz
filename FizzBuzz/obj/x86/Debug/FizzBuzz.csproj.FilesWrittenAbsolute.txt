@@ -1,5 +1,0 @@
-/Users/James/Desktop/FizzBuzz/FizzBuzz/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/James/Desktop/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.exe.mdb
-/Users/James/Desktop/FizzBuzz/FizzBuzz/bin/Debug/FizzBuzz.exe
-/Users/James/Desktop/FizzBuzz/FizzBuzz/obj/x86/Debug/FizzBuzz.exe
-/Users/James/Desktop/FizzBuzz/FizzBuzz/obj/x86/Debug/FizzBuzz.exe.mdb
